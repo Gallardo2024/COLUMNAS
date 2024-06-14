@@ -1,0 +1,84 @@
+body{
+    font-family: sans-serif;
+}
+.caja{
+    height: 75px;
+    background-color:rgb(30, 129, 96) ;
+    color: white;
+}
+.arribaderecha{
+    text-align: right;
+
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.caja1{
+    text-align: center;
+    background-color: rgb(46, 43, 43);
+    width: 20%;
+    height: 400px;
+    image-resolution:1%;
+    float: left;
+    margin: 0.3%;
+    color: white;
+}
+.caja1:hover{
+    transition: 0.2s;
+    transform: scale(112%);
+    background-color: blanchedalmond;
+}
+.caja2{
+    text-align: center;
+    background-color: rgb(46, 43, 43);
+    width: 20%;
+    height: 400px;
+    float: left;
+    margin: 0.3%;
+    color: white;
+}
+.caja3{
+    text-align: center;
+    background-color: rgb(46, 43, 43);
+    width: 20%;
+    height: 400px;
+    float: left;
+    margin: 0.3%;
+    color: white;
+}
+.caja4{
+    text-align: center;
+    background-color: rgb(46, 43, 43);
+    width: 20%;
+    height: 400px;
+    float: left;
+    margin: 0.3%;
+    color: white;
+}
+.todaslascajas{
+    width: 100%;
+    padding: 100px;
+
+}
+.caja2:hover{
+    transition: 0.2s;
+    transform: scale(112%);
+    background-color: blanchedalmond;
+}
+.caja3:hover{
+    transition: 0.2s;
+    transform: scale(112%);
+    background-color: blanchedalmond;
+}
+.caja4:hover{
+    transition: 0.2s;
+    transform: scale(112%);
+    background-color: blanchedalmond;
+}
+button{
+    background-color: green;
+    width: 50%;
+    height: 10%;
+    color: white;
+}
